@@ -1,2 +1,2 @@
-はじめてのGitHub Flow練習ファイル
+Sourcetreeから編集したよ
 編集したよ
